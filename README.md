@@ -43,7 +43,7 @@ The objective of this project was to transform raw bike sales data into actionab
 
    ![Bike_sales-dashboard](assets/images/Bike_Sales.png)
 
-### **Project** :  [Bike-sales-Dashboard](assets/Projects/Bike_sales.pbix)
+### **Project** :  [Bike-sales-Dashboard](assets/project/Bike_sales.pbix)
 
 ### 1. **Column Chart**
 - Illustrates the **Profit**, **Revenue**, and **Total Riders**.
