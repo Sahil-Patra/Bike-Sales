@@ -9,7 +9,7 @@ This project presents a dynamic **Bike Sales Dashboard** developed using **SQL**
 - [Dashboard Components](#Dashboard-Components)
 - [Key Insights](#Key-Insights)
 - [Suggestion](#Suggestion)
-- [Technologies Used](#Technologies-Used)
+- [Tools Used](#Tools-Used)
 - [How to Use the Dashboard](#How-to-Use-the-Dashboard)
 - [Future Enhancements](#Future-Enhancements)
 - [Contact](#contact)
@@ -89,7 +89,7 @@ The objective of this project was to transform raw bike sales data into actionab
 3. Maybe have one price for casual buyers and another for regular users, because they might be willing to pay differently.
 4. Try the new prices but pay close attention to how people react. If it doesn’t work well, be ready to change quickly so you don’t lose customers.
 
-## Technologies Used
+## Tools Used
 - **SQL**: For data integration, cleansing, and transforming raw datasets into a usable format.
 - **Power BI**: For building an interactive dashboard and visualizing key insights.
 - **Database Management System**: To store and manage large datasets efficiently.
